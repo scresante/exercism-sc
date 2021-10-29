@@ -1,21 +1,35 @@
 # Gigasecond
 
-Calculate the moment when someone has lived for 10^9 seconds.
+Welcome to Gigasecond on Exercism's Python Track.
+If you need help running the tests or submitting your code, check out `HELP.md`.
+
+## Instructions
+
+Given a moment, determine the moment that would be after a gigasecond
+has passed.
 
 A gigasecond is 10^9 (1,000,000,000) seconds.
 
-## Submitting Exercises
-
-Note that, when trying to submit an exercise, make sure the solution is in the `exercism/python/<exerciseName>` directory.
-
-For example, if you're submitting `bob.py` for the Bob exercise, the submit command would be something like `exercism submit <path_to_exercism_dir>/python/bob/bob.py`.
-
-For more detailed information about running tests, code style and linting,
-please see the [help page](http://exercism.io/languages/python).
-
 ## Source
 
-Chapter 9 in Chris Pine's online Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=09](http://pine.fm/LearnToProgram/?Chapter=09)
+### Contributed to by
 
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+- @behrtam
+- @BethanyG
+- @cmccandless
+- @Dog
+- @etrepum
+- @GascaK
+- @ikhadykin
+- @kytrinyx
+- @lowks
+- @N-Parsons
+- @pamtdoh
+- @pheanex
+- @sjakobi
+- @tqa236
+- @yawpitch
+
+### Based on
+
+Chapter 9 in Chris Pine's online Learn to Program tutorial. - http://pine.fm/LearnToProgram/?Chapter=09
